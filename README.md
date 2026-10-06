@@ -29,5 +29,5 @@ JavaScript → React → Next.js
 To become a skilled frontend developer and build useful, beautiful web experiences.
 - 💻 [Personal Portfolio](https://ataulhaqe219-cloud.github.io/Portfolio/)
 - 📚 [Study Task Tracker](https://ataulhaqe219-cloud.github.io/Study-task-tracker/)
-- 💱 [Currency Converter](https://github.com/ataulhaqe219-cloud/Currency-converter)
+- 💱 [Currency Converter](https://ataulhaqe219-cloud.github.io/Currency-converter/)
   
